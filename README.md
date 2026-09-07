@@ -1,13 +1,13 @@
 # LLM Temporal Stability in Healthcare
 
-<p align="center">
- <img src="llm_healthcare_tech_banner.svg" width="900"/>
-</p>
-
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Prompts](https://img.shields.io/badge/prompts-15%20×%203%20models-blueviolet)
 ![Responses](https://img.shields.io/badge/responses%20collected-1%2C350-green)
 ![License](https://img.shields.io/badge/licence-MIT-orange)
+
+<p align="center">
+ <img src="llm_healthcare_tech_banner.svg" width="900"/>
+</p>
 
 > *Ask a large language model the same clinical question on a Monday and again on a Friday. Will the answer be the same?*
 
