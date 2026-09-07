@@ -1,7 +1,7 @@
 # LLM Temporal Stability in Healthcare
 
 <p align="center">
-  <img src="banner.svg" width="900"/>
+ <img src="llm_healthcare_tech_banner.svg" width="900"/>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
